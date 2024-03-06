@@ -23,7 +23,7 @@ namespace DesafioFundamentos
 
         //Metodos para a criação de tela incial e menu interativo
 
-        public void telaInicial()
+        private void telaInicial()
         {
             Console.WriteLine("Seja bem vindo ao sistema de estacionamento!" + "\nDigite o preço incial: ");
             Double.TryParse(Console.ReadLine(), out precoInicial);
@@ -33,7 +33,7 @@ namespace DesafioFundamentos
             Console.Clear();
         }
 
-        public void menuInterativo()
+        private void menuInterativo()
         {
             int opcao;
             do
@@ -70,7 +70,7 @@ namespace DesafioFundamentos
             }while(opcao != 4);
 
         }
-        public void limparTela()
+        private void limparTela()
         {
             Console.WriteLine("Aperte qualquer tecla para continuar: ");
             Console.ReadLine();
@@ -79,7 +79,7 @@ namespace DesafioFundamentos
 
         //Metodos de controle de cadastro e remoção de veiculos
 
-        public void cadastrarVeiculo()
+        private void cadastrarVeiculo()
         {
             Console.WriteLine(" Digite a placa do veículo para estacionar: (Formato AAA-0000)");
             string adicionar  = Console.ReadLine().ToUpper();
@@ -88,7 +88,7 @@ namespace DesafioFundamentos
             }
         }
 
-        public void removerVeiculo()
+        private void removerVeiculo()
         {
             listarVeiculos();
             Console.WriteLine("\nEscolha um veículo da lista acima para remover");
@@ -104,7 +104,7 @@ namespace DesafioFundamentos
             }
         }
 
-        public void listarVeiculos()
+        private void listarVeiculos()
         {
             Console.WriteLine("Os veículos estacionados são: ");
             foreach(string carros in listaVeiculos)
@@ -113,7 +113,7 @@ namespace DesafioFundamentos
             }
         }
 
-        public void pagarEstacionameto()
+        private void pagarEstacionameto()
         {
             Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado: ");
             

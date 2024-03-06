@@ -12,3 +12,4 @@
 /home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.pdb
 /home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.genruntimeconfig.cache
 /home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/ref/DesafioFundamentos.dll
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.sourcelink.json
