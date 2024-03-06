@@ -1,0 +1,14 @@
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.deps.json
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.runtimeconfig.json
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.dll
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.pdb
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfo.cs
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.dll
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/refint/DesafioFundamentos.dll
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.pdb
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.genruntimeconfig.cache
+/home/ismar/Documentos/DOTNET/DesafioFundamentos/obj/Debug/net8.0/ref/DesafioFundamentos.dll
