@@ -114,7 +114,7 @@ namespace DesafioFundamentos
 
             double precoFinal = totalHora * _precoPorHora + _precoInicial;
 
-            Console.WriteLine($"O veículo {_removido} foi removido e o preço total foi de: R${precoFinal}");
+            Console.WriteLine($"O veículo {_removido} foi removido e o preço total foi de: R${precoFinal:F2}");
 
         }
 
